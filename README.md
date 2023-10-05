@@ -1,6 +1,6 @@
 # 使用方式
 
-这是一个示例仓库，用于定义 `vidol.chat`` 中的人工智能体，目前该智能体的功能比较简单，只需上传如下信息即可：
+这是一个示例仓库，用于定义 `vidol.chat` 中的人工智能体，目前该智能体的功能比较简单，只需上传如下信息即可：
 
 - 模型文件 model.vrm
 - 角色封面 cover.jpg
@@ -29,8 +29,7 @@ https://hub.vroid.com/characters/2843975675147313744/models/5644550979324015604
 
 ```json
 {
-  "name": "AvatarSample_A",
-  "cnName": "A 模型",
+  "name": "A 模型",
   "description": "A 模型是 Vroid 的示例角色",
   "homepage": "https://hub.vroid.com/characters/2843975675147313744/models/5644550979324015604"
 }
