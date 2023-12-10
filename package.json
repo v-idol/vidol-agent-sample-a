@@ -1,0 +1,20 @@
+{
+  "name": "@v-idol/vidol-agent-sample-a",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Vidol Agent Sample A",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "avatar.jpg",
+    "cover.jpg",
+    "model.vrm"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "author": "rdmclin2@163.com",
+  "license": "MIT"
+}
