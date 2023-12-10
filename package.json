@@ -6,11 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": [
-    "avatar.jpg",
-    "cover.jpg",
-    "model.vrm"
-  ],
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
